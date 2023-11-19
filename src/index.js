@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import ErrorPage from './components/ErrorPage/ErrorPage';
 import About from './components/About/About';
+import './globalVariables.css';
 
 
 const router = createBrowserRouter([
